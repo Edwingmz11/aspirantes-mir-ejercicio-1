@@ -20,4 +20,6 @@ Comandos que ejecutamos en cada paso
 
 10. Aqui solamente escribimos en el VSCode sin comandos desde la terminal
 
-11. 
+11. Nuevamente utilic=zamos los comandos (git add .) y (git commit -m + 'nombre de la nueva version')
+
+12. Renombre la rama master a main con (git branch -M main), agregue mi repositorio con (git remote add origin 'url del repositorio') y al final hice push a la rama main
